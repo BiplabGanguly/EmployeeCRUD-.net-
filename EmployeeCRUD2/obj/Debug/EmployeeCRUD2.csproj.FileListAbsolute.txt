@@ -77,3 +77,16 @@ F:\Test\EmployeeCRUD2\EmployeeCRUD2\obj\Debug\EmployeeCRUD2.csproj.CoreCompileIn
 F:\Test\EmployeeCRUD2\EmployeeCRUD2\obj\Debug\Employee.B0D8609B.Up2Date
 F:\Test\EmployeeCRUD2\EmployeeCRUD2\obj\Debug\EmployeeCRUD2.dll
 F:\Test\EmployeeCRUD2\EmployeeCRUD2\obj\Debug\EmployeeCRUD2.pdb
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\DataLinkRepo.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\ModelRepo.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\ServiceRepo.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\Unity.Abstractions.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\Unity.Container.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\Unity.Mvc5.dll
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\DataLinkRepo.pdb
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\ModelRepo.pdb
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\ServiceRepo.pdb
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\Unity.Abstractions.pdb
+F:\Test\EmployeeCRUD2\EmployeeCRUD2\bin\Unity.Container.pdb

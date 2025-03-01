@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ModelRepo;
+using ServiceRepo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +10,15 @@ namespace EmployeeCRUD2.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IEmployeeService _Iemp;
+        public HomeController(IEmployeeService Iemp)
+        {
+            _Iemp = Iemp;
+        }
         public ActionResult Index()
         {
-            return View();
+            List<Employee> emp = _Iemp.GetAllEmp();
+            return View(emp);
         }
 
         public ActionResult About()

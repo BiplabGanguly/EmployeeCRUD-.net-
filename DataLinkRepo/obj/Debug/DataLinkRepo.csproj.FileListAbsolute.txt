@@ -1,0 +1,9 @@
+F:\Test\EmployeeCRUD2\DataLinkRepo\bin\Debug\DataLinkRepo.dll
+F:\Test\EmployeeCRUD2\DataLinkRepo\bin\Debug\DataLinkRepo.pdb
+F:\Test\EmployeeCRUD2\DataLinkRepo\bin\Debug\ModelRepo.dll
+F:\Test\EmployeeCRUD2\DataLinkRepo\bin\Debug\ModelRepo.pdb
+F:\Test\EmployeeCRUD2\DataLinkRepo\obj\Debug\DataLinkRepo.csproj.AssemblyReference.cache
+F:\Test\EmployeeCRUD2\DataLinkRepo\obj\Debug\DataLinkRepo.csproj.CoreCompileInputs.cache
+F:\Test\EmployeeCRUD2\DataLinkRepo\obj\Debug\DataLink.603F5B2E.Up2Date
+F:\Test\EmployeeCRUD2\DataLinkRepo\obj\Debug\DataLinkRepo.dll
+F:\Test\EmployeeCRUD2\DataLinkRepo\obj\Debug\DataLinkRepo.pdb

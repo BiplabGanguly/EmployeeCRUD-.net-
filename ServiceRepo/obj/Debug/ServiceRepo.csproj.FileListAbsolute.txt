@@ -1,0 +1,11 @@
+F:\Test\EmployeeCRUD2\ServiceRepo\bin\Debug\ServiceRepo.dll
+F:\Test\EmployeeCRUD2\ServiceRepo\bin\Debug\ServiceRepo.pdb
+F:\Test\EmployeeCRUD2\ServiceRepo\bin\Debug\DataLinkRepo.dll
+F:\Test\EmployeeCRUD2\ServiceRepo\bin\Debug\ModelRepo.dll
+F:\Test\EmployeeCRUD2\ServiceRepo\bin\Debug\DataLinkRepo.pdb
+F:\Test\EmployeeCRUD2\ServiceRepo\bin\Debug\ModelRepo.pdb
+F:\Test\EmployeeCRUD2\ServiceRepo\obj\Debug\ServiceRepo.csproj.AssemblyReference.cache
+F:\Test\EmployeeCRUD2\ServiceRepo\obj\Debug\ServiceRepo.csproj.CoreCompileInputs.cache
+F:\Test\EmployeeCRUD2\ServiceRepo\obj\Debug\ServiceR.582E412C.Up2Date
+F:\Test\EmployeeCRUD2\ServiceRepo\obj\Debug\ServiceRepo.dll
+F:\Test\EmployeeCRUD2\ServiceRepo\obj\Debug\ServiceRepo.pdb

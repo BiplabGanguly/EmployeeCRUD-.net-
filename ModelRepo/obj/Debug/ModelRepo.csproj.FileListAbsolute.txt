@@ -1,0 +1,6 @@
+F:\Test\EmployeeCRUD2\ModelRepo\bin\Debug\ModelRepo.dll
+F:\Test\EmployeeCRUD2\ModelRepo\bin\Debug\ModelRepo.pdb
+F:\Test\EmployeeCRUD2\ModelRepo\obj\Debug\ModelRepo.csproj.AssemblyReference.cache
+F:\Test\EmployeeCRUD2\ModelRepo\obj\Debug\ModelRepo.csproj.CoreCompileInputs.cache
+F:\Test\EmployeeCRUD2\ModelRepo\obj\Debug\ModelRepo.dll
+F:\Test\EmployeeCRUD2\ModelRepo\obj\Debug\ModelRepo.pdb
