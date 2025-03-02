@@ -20,14 +20,6 @@ namespace EmployeeCRUD2.Controllers
             List<Employee> emp = _Iemp.GetAllEmp();
             return View(emp);
         }
-
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
